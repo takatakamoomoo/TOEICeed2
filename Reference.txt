@@ -1,0 +1,15 @@
+part7time1 = Integer.parseInt(property.getProperty("part7time1"));
+
+part7time2 = Integer.parseInt(property.getProperty("part7time2"));
+
+[2016-]
+
+48問　→  48
+(153 - 200)
+[2016+]
+54問　→  54
+(147 - 200)
+
+60000.0
+
+ 

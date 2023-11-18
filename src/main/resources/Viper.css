@@ -1,0 +1,36 @@
+.root {
+    -fx-font-size: 13.0pt;
+    -fx-font-weight:bold;
+}
+
+.toggle-button {
+    -fx-background-radius: 14;
+}
+
+.toggle-button:disabled, .toggle-button:disabled > * {
+  -fx-opacity: 0.35;
+}
+
+.chart-pie-label {
+    -fx-fill: #FFFFFF;
+    -fx-font-size: 13.0pt;
+}
+
+.radio-button .radio {
+    -fx-border-width: 1px;
+    -fx-border-color: #000;
+    -fx-background-color: white;
+    -fx-background-image: null;
+    -fx-border-radius: 20px;
+    -fx-padding: 4px;
+}
+
+.radio-button .radio:hover {
+    -fx-border-color: #00FF00; /*gives a yellow-green the radio button*/
+    -fx-border-width: 2px;
+}
+
+.radio-button .dot {
+    -fx-background-radius: 25px;
+    -fx-padding: 8px;
+}

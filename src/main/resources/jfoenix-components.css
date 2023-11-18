@@ -1,0 +1,29 @@
+.tab {
+    -fx-background-color: transparent;
+}
+
+.tab-header-background {
+    -fx-background-color: transparent;
+}
+
+.tab-label{
+    -fx-font-size: 10pt;
+    -fx-text-fill: #969696;
+}
+
+.tab {
+    -fx-pref-width: 250;
+}
+
+.tab-pane{
+    -fx-padding: 0 -1 -1 -1;
+}
+
+.button-raised{
+    -fx-padding: 0.7em 0.57em;
+    -fx-font-size: 14px;
+    -jfx-button-type: RAISED;
+    -fx-background-color: blue;
+    -fx-pref-width: 200;
+    -fx-text-fill: WHITE;
+}
